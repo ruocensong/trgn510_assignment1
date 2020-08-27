@@ -1,0 +1,87 @@
+    1  cp /data/bashrc ~/assignments/trgn_assignment1/problem2/
+    2  ls ~/assignemnts
+    3  ls ~/
+    4  ls ~/assignments
+    5  cp /data/bashrc ~/assignments/trgn_assignment1/problem2/
+    6  ls ~/assignemnts
+    7  ls ~/assignments
+    8  ls ~/assignments/trgn_assignment1
+    9  ls ~/assignments/trgn_assignment1/problem2
+   10  cd problem2/
+   11  cp /data/bashrc ~/assignments/trgn_assignment1/problem2/
+   12  cp /home/data/bashrc ~/assignments/trgn_assignment1/problem2/
+   13  ls -al
+   14  vi bashrc
+   15  source bashrc
+   16  cat /etc/*release
+   17  cat /etc/*release | head
+   18  cat /etc/*release | head -1
+   19  source ~/assignments/trgn_assignment1/problem2/bashrc
+   20  vi bashrc
+   21  source bashrc
+   22  vi bashrc
+   23  source bashrc
+   24  vi bashrc
+   25  source bashrc
+   26  vi bashrc
+   27  source bashrc
+   28  vi bashrc
+   29  source bashrc
+   30  source ~/assignments/trgn_assignment1/problem2/bashrc
+   31  cp ~/assignments/trgn_assignment1/problem2/bashrc ~/.bashrc
+   32  logout
+   33  cp /home/data/vimrc ~/assignments/trgn_assignment1/problem2/
+   34  ls
+   35  cd ~/assignments/problem2
+   36  cd ~/assignments/trgn_assignment1/problem2
+   37  ls
+   38  vi vimrc
+   39  cp vimrc ~/.vimrc
+   40  vi vimrc
+   41  ls
+   42  cat vimrc
+   43  vi vimrc
+   44  cd
+   45  exit
+   46  rm ~/ .vimrc
+   47  rm ~/.vimrc
+   48  cd ~/assignments/trgn_assignment1/problem2
+   49  ls
+   50  exit
+   51  cd ~/assignments/trgn_assignment1/problem2
+   52  ls
+   53  rm ~/vimrc
+   54  rm vimrc
+   55  ls
+   56  cp /home/data/vimrc ~/assignments/trgn_assignment1/problem2/
+   57  ls
+   58  vi vimrc
+   59  cp vimrc ~/.vimrc
+   60  vi vimrc
+   61  cp vimrc ~/.vimrc
+   62  vi vimrc
+   63  cd ..
+   64  ls
+   65  mkdir problem3
+   66  ls
+   67  ls -l
+   68  ls -al
+   69  cd ~/problem3
+   70  cd ~/problem3/
+   71  cd problem3
+   72  cd ..
+   73  mv problem3 problem 3
+   74  rm problem3
+   75  rm -r problem3
+   76  ls
+   77  mkdir problem\3
+   78  ls
+   79  mv problem\3 problem\ 3
+   80  ls
+   81  cd problem 3
+   82  cd problem\ 3
+   83  ls
+   84  cd ..
+   85  cd problem\ 3
+   86  history
+   87  history > My\ History.txt

@@ -1,0 +1,5 @@
+root     177830   2718  0 22:34 ?        00:00:00 sshd: ruocenso [priv]
+ruocenso 177840 177830  0 22:34 ?        00:00:00 sshd: ruocenso@pts/0
+ruocenso 177841 177840  0 22:34 pts/0    00:00:00 -bash
+ruocenso 179705 177841  0 22:58 pts/0    00:00:00 ps -ef
+ruocenso 179706 177841  0 22:58 pts/0    00:00:00 grep --color=auto ruocenso
