@@ -1,0 +1,181 @@
+    1  passwd
+    2  exit
+    3  cat /etc/*release | head -1
+    4  exit
+    5  ls
+    6  mkdir bin scripts projects
+    7  ls
+    8  cat /etc/*release | head -1
+    9  FILE="bin"; [ -d "$FILE" ] && echo "$FILE" | md5sum || echo "None" | md5sum | cut -f1
+   10  exit
+   11  hostname
+   12  path
+   13  exit
+   14  vi heartrates.txt
+   15  cat heartrates.txt
+   16  exit
+   17  vi heartrate.txt
+   18  cat heartrate.txt
+   19  cat heartrates.txt
+   20  vi heartrates.txt
+   21  cat heartrates.txt
+   22  exit
+   23  ls
+   24  mkdir assignments
+   25  ls
+   26  cd ~/assignments
+   27  ls
+   28  ls -l
+   29  mkdir assignment1
+   30  ls
+   31  echo "#trgn510_assignment1" >> README.md
+   32  cat README.md
+   33  git init
+   34  ls -a
+   35  git add README.md
+   36  git commit -m "first commit"
+   37  git config --global user.email "ruocenso@trgn.usc.edu"
+   38  it config --global user.name "Ruocen Song"
+   39  git config --global user.name "Ruocen Song"
+   40  git remote add origin https://github.com/davcraig75/trgn510_assignment1.git
+   41  git push -u origin master
+   42  ls -l
+   43  ls -al
+   44  cd ~/assignment1
+   45  cd ~/assignment1/
+   46  cat assignment1
+   47  cd ~/assignment1
+   48  cd
+   49  cd ~/assignments
+   50  git push -u origin master
+   51  git remote add origin https://github.com/davcraig75/trgn510_assignment1.git
+   52  ls
+   53  cd ~/assignments
+   54  ls
+   55  ls -al
+   56  git commit -m "first commit"
+   57  cat README.md
+   58  git remote add origin https://github.com/davcraig75/trgn510_assignment1.git
+   59  git push -u origin master
+   60  git remote add origin https://github.com/ruocensong/trgn510_assignment1.git
+   61  git push -u origin master
+   62  vi README.md
+   63  get add . -A
+   64  get add RAEDME.md
+   65  git add . -A
+   66  git commit -m "First commit"
+   67  git push origin master
+   68  git remote add origin https://github.com/ruocensong/trgn510_assignment1.git
+   69  git push origin master
+   70  git remote set-url origin https://github.com/ruocensong/trgn510_assignment1.git
+   71  git push origin master
+   72  git add . -A
+   73  git commit -m "First commit"
+   74  git remote rm origin
+   75  git remote add origin git@github.com:ruocensong/trgn510_assignment1.git
+   76  ls -al
+   77  git init
+   78  git add README.md
+   79  git remote add origin https://github.com/davcraig75/trgn510_assignment1.git
+   80  remote rm origin
+   81  git remote rm origin
+   82  git remote add origin https://github.com/ruocensong/trgn510_assignment1.git
+   83  git push -u origin master
+   84  ls
+   85  rm .git
+   86  rm -r .git
+   87  ls -al
+   88  git init
+   89  git commit -m "first commit"
+   90  git remote add origin https://github.com/ruocensong/trgn510_assignment1.gi
+   91  git push -u origin master
+   92  git add . -A
+   93  git commit -m "First commit"
+   94  git remote add origin https://github.com/ruocensong/trgn510_assignment1.gi/'
+
+'
+   95  git remote add origin https://github.com/ruocensong/trgn510_assignment1.gi/
+   96  git remote -v
+   97  git push -u origin master
+   98  git remote add origin https://github.com/ruocensong/trgn510_assignment1.gi/
+   99  git remote -v
+  100  cat README.md
+  101  git add . -A
+  102  git commit -m "First commit"
+  103  git push origin master
+  104  git remote set-url origin https://github.com/ruocensong/trgn510_assignment1.git
+  105  git remote -v 
+  106  git add . -A
+  107  git commit -m "First commit"
+  108  git push origin master
+  109  git remote set-url origin https://github.com/ruocensong/trgn510_assignment1.git/
+  110  git push origin master
+  111  git remove -v
+  112  git remote -v 
+  113  git remote set-url origin https://github.com/ruocensong/trgn510_assignment1.git
+  114  git remote -v 
+  115  git remote add origin https://github.com/davcraig75/trgn510_assignment1.git
+  116  git remote -v 
+  117  git push origin master
+  118  cd ~/.git
+  119  ls
+  120  ls -a
+  121  cd ..
+  122  cd -
+  123  pwd
+  124  cd ~/assignment1
+  125  cd ~/assignments/assignment1
+  126  pwd
+  127  ls
+  128  ls -l
+  129  ls -al
+  130  cd ..
+  131  cd ~/assignments/.git
+  132  ls -al
+  133  cd ~/assignments/.git/config
+  134  vi config.txt
+  135  cat config
+  136  cd ..
+  137  ls -al
+  138  cat README.md
+  139  git push origin master
+  140  git pull
+  141  git push origin master
+  142  git pull
+  143  git pull origin master
+  144  cat README.md
+  145  vi README.md
+  146  git push origin master
+  147  git pull origin master
+  148  vi README.md
+  149  git pull origin master
+  150  cat README.md
+  151  git push origin master
+  152  cd ~/assignments/.git
+  153  git branch -a
+  154  add README.md
+  155  git add . -A
+  156  cd ..
+  157  git add . -A
+  158  it commit -m "First commit"
+  159  git commit -m "First commit"
+  160  git push origin master
+  161  mv assignment1 trgn_assignment1
+  162  ls
+  163  cd ~/assignments/ trgn_assignment1
+  164  cd ~/assignments/trgn_assignment1
+  165  ls -al
+  166  cd ..
+  167  ls -al
+  168  mv README.md trgn_assignment1
+  169  ls -al
+  170  mv .git trgn_assignment1
+  171  ls -al
+  172  cd ~/assignments/trgn_assignment1
+  173  ls -al
+  174  cat README.md
+  175  mkdir problem1
+  176  ls -al
+  177  history
+  178  cd ~/assignments/trgn_assignment1/problem1
+  179  history > myhistory.txt
